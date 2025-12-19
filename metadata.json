@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EngiHub: Engineering Masterclass",
+  "description": "A comprehensive study companion for engineering students across all disciplines. Features include AI-powered concept explanations, study roadmap generation, and formula quick-references.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
